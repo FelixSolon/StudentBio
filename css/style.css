@@ -1,15 +1,16 @@
 
+	
 
 body {
 	background-color: #EFEEE7;
-	font-family: "Georgia","Times New Roman",Times,Serif;
+	font-family: "Georgia","Times New Roman",Times,serif;
 	font-color: #333333;
 	margin: 0;
 	padding: 0;
 }
 
 header {
-	background-color: #333;
+	background-color: #333333;
 }
 
 * {
@@ -17,10 +18,11 @@ header {
 }
 
 h1 {
-	font-color: #eee;
+	color: #eee;
 	font-size: 28px;
 	margin: 10px;
 	padding: 10px;
+	text-align: center;
 }
 
 h2 {
